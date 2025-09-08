@@ -1,4 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, Soy Darlyn Asmad Chia</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+  Transformo ideas en experiencias digitales. 
+</p>
+
+---
+
+<a style="display:flex;" align="center">[![GitHub Readme](https://github-readme-stats.vercel.app/api?username=DarlynZen&show_icons=true&hide_border=true&amp;&rank_icon=github&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight&border_radius=10)](https://github-readme-stats.vercel.app)
+ </a>
+
+ ---
+
+ ## 🛠 Tecnologías que uso
+
+**Lenguajes:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,java)](https://skillicons.dev)
+
+**Frontend:**  
+
+[![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
+
+**Frameworks & Librerías:**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,astro,bootstrap)](https://skillicons.dev)
+
+**Diseño & Herramientas:**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,md)](https://skillicons.dev)
+
+**Deployment:**
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+---
 
 <!--
 **DarlynZen/DarlynZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
