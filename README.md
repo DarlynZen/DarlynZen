@@ -1,7 +1,7 @@
 <h1>👋 Hola, Soy Darlyn</h1>
 
 <p align="center">
-<img src="Banner.png">
+<img src="Banner.png" style="border-radius:10px;">
 </p>
 
 ---
