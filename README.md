@@ -1,9 +1,4 @@
-<h1 align="center">👋 Hola, Soy Darlyn Asmad Chia</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="center">
-  Transformo ideas en experiencias digitales. 
-</p>
+<h1>👋 Hola, Soy Darlyn</h1>
 
 ---
 
