@@ -1,5 +1,9 @@
 <h1>👋 Hola, Soy Darlyn</h1>
 
+<p align="center">
+<img src="Banner.png">
+</p>
+
 ---
 
 <a style="display:flex;" align="center">[![GitHub Readme](https://github-readme-stats.vercel.app/api?username=DarlynZen&show_icons=true&hide_border=true&amp;&rank_icon=github&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight&border_radius=10)](https://github-readme-stats.vercel.app)
