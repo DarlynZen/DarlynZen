@@ -13,17 +13,17 @@
 
  ## 🛠 Tecnologías que uso
 
-**Lenguajes:**  
+**Backend:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
 
 **Frontend:**  
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,html,css,ts,js)](https://skillicons.dev)
 
 **Frameworks & Librerías:**
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,astro,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,astro,bootstrap)](https://skillicons.dev)
 
 **Diseño & Herramientas:**
 
