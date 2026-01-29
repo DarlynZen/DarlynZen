@@ -1,4 +1,4 @@
-<h1>👋 Hola, Soy Darlyn</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hola, Soy Darlyn.</h1>
 
 <p align="center">
 <img src="Banner.png" style="border-radius:10px;">
