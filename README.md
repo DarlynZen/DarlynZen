@@ -6,7 +6,7 @@
 
 ---
 
-<a style="display:flex;" align="center">[![GitHub Readme](https://github-readme-stats.vercel.app/api?username=DarlynZen&show_icons=true&hide_border=true&amp;&rank_icon=github&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight&border_radius=10)](https://github-readme-stats.vercel.app)
+<a style="display:flex;" align="center">[![GitHub Readme]([https://github-readme-stats.vercel.app/api?username=DarlynZen&show_icons=true&hide_border=true&amp;&rank_icon=github&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight&border_radius=10](https://github-readme-stats.vercel.app/api/pin/?username=DarlynZeb&repo=github-readme-stats&cache_seconds=86400&theme=calm))](https://github-readme-stats.vercel.app)
  </a>
 
  ---
