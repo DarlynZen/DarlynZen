@@ -18,7 +18,7 @@
 </pre>
 
  ## <h3>🛠 Tecnologías que uso</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,astro,react,angular,html,css,ts,js,tailwind,figma,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,dotnet,astro,react,angular,html,css,ts,js,tailwind,figma,md,sqlite)](https://skillicons.dev)
 
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/darlyn-asmad-chia-0210bb2a3/ "Darlyn Asmad LinkedIn"
